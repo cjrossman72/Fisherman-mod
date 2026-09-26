@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Vikings",
+    "leaderName": "Ragnar Lothbrok",
+    "adjective": [
+      "Vikings"
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "We are the Vikings. we are a fishermen, hunters and warriors. We are well known as coastal raiders. ",
+    "declaringWar": "We come from the midst of the sea and none are able to withstand us.",
+    "attacked": "Your attack on us will be your death ",
+    "defeated": "We bow to your power.",
+    "neutralHello": "We sail the mighty seas looking for plunder.",
+    "hateHello": "The seas are ours! Stay out of the waters.",
+    "favoredReligion": "Druidism",
+    "uniqueName": "Raiders",
+    "tradeRequest": "Let's make a deal.",
+    "declaringfriendship": "Let us become like friends!",
+    "outerColor": [
+      20,
+      173,
+      120
+    ],
+    "innerColor": [
+      198,
+      243,
+      220
+    ],
+    "uniques": [
+      "Enables embarkation for land units",
+      "Enables [Water] units to enter ocean tiles",
+      "Starts with [Sailing]"
+    ],
+    "cities": [
+      "Jórvík",
+      "Hedeby",
+      "Birka",
+      "Aarhus",
+      "Aros",
+      "Kaupang",
+      "Slaithwaite",
+      "Lowestoft",
+      "Skegness",
+      "Threlkeld"
+    ]
+  },
+  {
+    "name": "Saxons",
+    "leaderName": "King Æthelstan",
+    "adjective": [
+      "Saxons"
+    ],
+    "startBias": [
+      "Grassland",
+      "Plains"
+    ],
+    "preferredVictoryType": "Diplomatic",
+    "startIntroPart1": "The Saxonx greet you. We have inhabitanted this country for centuries. We have had many long-lived city-states spread throughout this land.",
+    "declaringWar": "We will tear out thy foundations and destroy thy people. ",
+    "attacked": "You dare besiege us! We will go forth to battle and defeat you!",
+    "defeated": "We bow to thee who has destroyed our vast army.",
+    "neutralHello": "Our greatness will not compare with you but welcome.",
+    "hateHello": "Fear our might and power!",
+    "tradeRequest": "Let's make a deal.",
+    "outerColor": [
+      160,
+      115,
+      35
+    ],
+    "innerColor": [
+      243,
+      227,
+      198
+    ],
+    "favoredReligion": "Christianity",
+    "uniqueName": "The English ",
+    "uniques": [
+      "Starts with [Animal Husbandry]",
+      "Gain control over [8] tiles [in this city] <upon founding a city>",
+      "Free [Horseman] appears <after discovering [Horseback Riding]>",
+      "Free [Wrangler] appears",
+      "Gain [500] [Gold]"
+    ],
+    "cities": [
+      "Northumbria",
+      "Mercia",
+      "East Anglia ",
+      "Essex",
+      "Kent",
+      "Sussex",
+      "Wessex",
+      "Gewisse",
+      "Deira",
+      "Bernicia"
+    ]
+  }
+]
