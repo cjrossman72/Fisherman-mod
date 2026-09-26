@@ -43,8 +43,7 @@
     "name": "Northern Pike",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
-      "Snow",
-      "Ice"
+      "Snow"
     ],
     "gold": 1,
     "production": 1,
