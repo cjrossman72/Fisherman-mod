@@ -1,0 +1,11 @@
+{
+    "fast": true,
+    "combineSubdirectories": true,
+    "maxWidth": 516,
+    "maxHeight": 256,
+    "paddingX": 8,
+    "paddingY": 8,
+    "duplicatePadding": true,
+    "filterMin": "MipMapLinearLinear",
+    "filterMag": "MipMapLinearLinear",
+}

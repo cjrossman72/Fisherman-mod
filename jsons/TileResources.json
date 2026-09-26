@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Wild Horses",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Grassland",
+      "Desert",
+      "Hill"
+    ],
+    "production": 2,
+    "improvement": "Corral",
+    "improvementStats": {
+      "production": 2
+    },
+    "uniques": [
+      "Generated on every [30] tiles <in [{Featureless} {Grassland}] tiles>",
+      "Generated on every [25] tiles <in [{Featureless} {Plains}] tiles>",
+      "Generated on every [35] tiles <in [{Featureless} {Desert}] tiles>",
+      "Generated on every [30] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"
+    ]
+  }
+]
