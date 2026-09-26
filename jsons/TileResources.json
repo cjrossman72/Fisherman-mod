@@ -53,10 +53,8 @@
       "gold": 1
     },
     "uniques": [
-      "Generated with weight [45] <in [Grassland] tiles>",
-      "Generated with weight [45] <in [Plains] tiles>",
       "Generated near City States with weight [10]",
-      "Must be on [River]"
+      "Must be on [Ice]"
     ]
   }
 ]
