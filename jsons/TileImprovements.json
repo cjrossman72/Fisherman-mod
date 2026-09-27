@@ -84,12 +84,11 @@
     "techRequired": "Sailing",
     "uniques": [
       "Can be built outside your borders <hidden from users>",
-      "Can only be built to improve a resource <hidden from users>",
+      "Can only be built on [Trout] tiles",
       "Does not need removal of [Marsh] <hidden from users>",
-      "Can also be built on tiles adjacent to fresh water <hidden from users>",
       "Remove [Trout Trip] improvements from this tile <hidden from users> <upon turn end>",
-      "Remove [Trout] resources from this tile <hidden from users>",
-      "Only available <for [Fisherman] units> <hidden from users>",
+      "Remove [Trout] resources from this tile <hidden from users>  <upon turn end>",
+      "Only available <for [Fisherman] units>",
       "Provides [1] [Nutrition]"
     ]
   },
