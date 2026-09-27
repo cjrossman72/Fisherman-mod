@@ -22,7 +22,7 @@
     "name": "Trout",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
-      "Lakes",
+      "Lakes"
     ],
     "gold": 2,
     "food": 2,
@@ -31,7 +31,9 @@
       "gold": 1
     },
     "uniques": [
-      "Generated near City States with weight [10]"
+      "Generated near City States with weight [10]",
+      "Generated with weight [30] <in [Grassland] Regions>",
+      "Generated with weight [30] <in [Forest] Regions>"
     ]
   },
   {
@@ -48,7 +50,8 @@
       "gold": 1
     },
     "uniques": [
-      "Generated near City States with weight [10]"
+      "Generated near City States with weight [10]",
+      "Generated with weight [30] <in [Tundra] Regions>"
     ]
   }
 ]
