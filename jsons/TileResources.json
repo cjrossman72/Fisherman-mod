@@ -22,7 +22,6 @@
     "name": "Trout",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
-      "Lakes",
       "Marsh"
     ],
     "gold": 2,
@@ -53,7 +52,8 @@
     },
     "uniques": [
       "Generated near City States with weight [10]",
-      "Generated with weight [30] <in [Tundra] Regions>"
+      "Generated with weight [30] <in [Tundra] Regions>",
+      "Generated with weight [30] <in [Snow] tiles>"
     ]
   }
 ]
