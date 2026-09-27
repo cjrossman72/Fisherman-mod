@@ -83,13 +83,13 @@
     "turnsToBuild": 3,
     "techRequired": "Sailing",
     "uniques": [
-      "Can be built outside your borders <hidden from user>",
-      "Can only be built to improve a resource <hidden from user>",
-      "Does not need removal of [Marsh] <hidden from user>",
+      "Can be built outside your borders <hidden from users>",
+      "Can only be built to improve a resource <hidden from users>",
+      "Does not need removal of [Marsh] <hidden from users>",
       "Can also be built on tiles adjacent to fresh water <hidden from users>",
       "Remove [Trout Trip] improvements from this tile <hidden from users> <upon turn end>",
       "Remove [Trout] resources from this tile <hidden from users>",
-      "Only available <for [Fisherman] units> <hidden from user>",
+      "Only available <for [Fisherman] units> <hidden from users>",
       "Provides [1] [Nutrition]"
     ]
   },
@@ -101,11 +101,11 @@
     "turnsToBuild": 3,
     "techRequired": "Sailing",
     "uniques": [
-      "Can be built outside your borders <hidden from user>",
-      "Can only be built to improve a resource <hidden from user>",
+      "Can be built outside your borders <hidden from users>",
+      "Can only be built to improve a resource <hidden from users>",
       "Remove [Pike Trip] improvements from this tile <hidden from users> <upon turn end>",
       "Remove [Northern Pike] resources from this tile <hidden from users>",
-      "Only available <for [Fisherman] units> <hidden from user>",
+      "Only available <for [Fisherman] units> <hidden from users>",
       "Provides [1] [Nutrition]"
     ]
   }
