@@ -23,7 +23,6 @@
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Lakes",
-      "Fresh Water"
     ],
     "gold": 2,
     "food": 2,
@@ -32,8 +31,6 @@
       "gold": 1
     },
     "uniques": [
-      "Generated with weight [45] <in [{Fresh Water} {Grassland}] tiles>",
-      "Generated with weight [45] <in [{Fresh Water} {Plains}] tiles>",
       "Generated near City States with weight [10]"
     ]
   },
