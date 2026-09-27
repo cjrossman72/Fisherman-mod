@@ -20,7 +20,7 @@
   },
   {
     "name": "Trout",
-    "resourceType": "Luxary",
+    "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
       "Marsh"
     ],
