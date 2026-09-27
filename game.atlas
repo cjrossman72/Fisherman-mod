@@ -116,3 +116,10 @@ ResourceIcons/Trout
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Nutrition
+  rotate: false
+  xy: 100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
