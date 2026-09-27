@@ -22,7 +22,8 @@
     "name": "Trout",
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": [
-      "Lakes"
+      "Lakes",
+      "Marsh"
     ],
     "gold": 2,
     "food": 2,
@@ -33,7 +34,8 @@
     "uniques": [
       "Generated near City States with weight [10]",
       "Generated with weight [30] <in [Grassland] Regions>",
-      "Generated with weight [30] <in [Forest] Regions>"
+      "Generated with weight [30] <in [Forest] Regions>",
+      "Generated with weight [30] <in [Marsh] tiles>"
     ]
   },
   {
