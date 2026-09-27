@@ -58,7 +58,7 @@
   },
   {
     "name": "Nutrition",
-    "resourceType": "Stragetic",
+    "resourceType": "Strategic",
     "food": 2,
     "uniques": [
       "Doesn't generate naturally"
