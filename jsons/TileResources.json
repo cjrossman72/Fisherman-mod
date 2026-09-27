@@ -32,9 +32,9 @@
     },
     "uniques": [
       "Generated near City States with weight [10]",
-      "Generated with weight [50] <in [Marsh] tiles>",
+      "Generated with weight [80] <in [Marsh] tiles>",
       "Generated with weight [60] <in [Grassland] Regions>",
-      "Generated with weight [30] <in [Hybrid] Regions>"
+      "Generated with weight [60] <in [Hybrid] Regions>"
     ]
   },
   {
