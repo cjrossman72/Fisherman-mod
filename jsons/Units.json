@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Great Admiral",
+    "unitType": "Civilian Water",
+    "movement": 8,
+    "uniques": [
+      "Can instantly construct a [Naval Base] improvement <by consuming this unit>",
+      "Is part of Great Person group [Admiral]",
+      "[This Unit] gets a name from the [Admiral] group",
+      "Great Person - [War]",
+      "Unbuildable",
+      "Uncapturable"
+    ]
+  },
+  {
+    "name": "Wrangler",
+    "unitType": "Civilian",
+    "requiredTech": "Animal Husbandry",
+    "strength": 8,
+    "movement": 2,
+    "cost": 100,
+    "uniques": [
+      "Uncapturable",
+      "Ignores terrain cost",
+      "Can instantly construct a [Corral] improvement <by consuming this unit>"
+    ],
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Voyager",
+    "unitType": "Melee Water",
+    "movement": 4,
+    "strength": 10,
+    "cost": 60,
+    "requiredTech": "Optics",
+    "uniques": [
+      "Cannot enter ocean tiles",
+      "Never appears as a Barbarian unit",
+      "Can carry [1] [Civilian] units"
+    ],
+    "upgradesTo": "Caravel",
+    "obsoleteTech": "Astronomy",
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Pioneer",
+    "unitType": "Civilian",
+    "movement": 2,
+    "strength": 5,
+    "cost": 25,
+    "replaces": "Settler",
+    "uniqueTo": "Akkadia",
+    "requiredTech": "Agriculture",
+    "obsoleteTech": "Scientific Theory",
+    "uniques": [
+      "May upgrade to [Archer] through ruins-like effects",
+      "Never appears as a Barbarian unit",
+      "Can transform to [Settler]",
+      "Never appears as a Barbarian unit"
+    ],
+    "promotions": [
+      "Ignore terrain cost"
+    ],
+    "attackSound": "nonmetalhit"
+  },
+  {
+    "name": "Fisherman",
+    "unitType": "Civilian",
+    "movement": 2,
+    "requiredTech": "Sailing",
+    "uniques": [
+      "Can build [Trout Trip] improvements on tiles",
+      "Can build [Pike Trip] improvements on tiles",
+      "Automation is a primary action",
+      "Never appears as a Barbarian unit <hidden from users>",
+      "Unavailable <for [City-States] Civilizations> <hidden from users>"
+    ],
+    "cost": 70
+  },
+  {
+    "name": "Archaeologist",
+    "unitType": "Civilian",
+    "cost": 200,
+    "requiredTech": "Archaeology",
+    "movement": 4,
+    "uniques": [
+      "Can build [Antiquity Dig Site] improvements on tiles",
+      "Can build [Remove Forest] improvements on tiles",
+      "Can build [Remove Jungle] improvements on tiles",
+      "Cannot be purchased",
+      "Never appears as a Barbarian unit <hidden from users>",
+      "Only available <in cities with a [University]>",
+      "Uncapturable <hidden from users>",
+      "Unavailable <for [City-States] Civilizations> <hidden from users>",
+      "Triggers a [Archaeological Dig in City] event <in [City center] tiles> <in [Antiquity Site] tiles> <after discovering [Archaeology]> <by consuming this unit> <hidden from users>",
+      "Triggers a [Hidden Archaeological Dig in City] event <in [City center] tiles> <in [Hidden Antiquity Site] tiles> <after discovering [Archaeology]> <after discovering [Hidden Antiquity Sites]> <by consuming this unit> <hidden from users>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "An [Archaeologist] can either dig up [Antiquity Site]s for [Artifact]s, or turn them into [Landmark]s."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Antiquity Site",
+        "link": "Resource/Antiquity Site"
+      },
+      {
+        "text": "Landmark",
+        "link": "Improvement/Landmark"
+      },
+      {
+        "text": "Archaeological Dig",
+        "link": "Improvement/Archaeological Dig"
+      }
+    ]
+  }
+]
