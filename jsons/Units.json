@@ -76,44 +76,5 @@
       "Unavailable <for [City-States] Civilizations> <hidden from users>"
     ],
     "cost": 70
-  },
-  {
-    "name": "Archaeologist",
-    "unitType": "Civilian",
-    "cost": 200,
-    "requiredTech": "Archaeology",
-    "movement": 4,
-    "uniques": [
-      "Can build [Antiquity Dig Site] improvements on tiles",
-      "Can build [Remove Forest] improvements on tiles",
-      "Can build [Remove Jungle] improvements on tiles",
-      "Cannot be purchased",
-      "Never appears as a Barbarian unit <hidden from users>",
-      "Only available <in cities with a [University]>",
-      "Uncapturable <hidden from users>",
-      "Unavailable <for [City-States] Civilizations> <hidden from users>",
-      "Triggers a [Archaeological Dig in City] event <in [City center] tiles> <in [Antiquity Site] tiles> <after discovering [Archaeology]> <by consuming this unit> <hidden from users>",
-      "Triggers a [Hidden Archaeological Dig in City] event <in [City center] tiles> <in [Hidden Antiquity Site] tiles> <after discovering [Archaeology]> <after discovering [Hidden Antiquity Sites]> <by consuming this unit> <hidden from users>"
-    ],
-    "civilopediaText": [
-      {
-        "text": "An [Archaeologist] can either dig up [Antiquity Site]s for [Artifact]s, or turn them into [Landmark]s."
-      },
-      {
-        "separator": true
-      },
-      {
-        "text": "Antiquity Site",
-        "link": "Resource/Antiquity Site"
-      },
-      {
-        "text": "Landmark",
-        "link": "Improvement/Landmark"
-      },
-      {
-        "text": "Archaeological Dig",
-        "link": "Improvement/Archaeological Dig"
-      }
-    ]
   }
 ]
