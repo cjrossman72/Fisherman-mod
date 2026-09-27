@@ -52,6 +52,7 @@
     },
     "uniques": [
       "Generated near City States with weight [10]",
+      Generated on every [25] tiles <in [{Featureless} {Snow}] tiles>,
       "Generated with weight [80] <in [Tundra] Regions>",
       "Generated with weight [40] <in [Hybrid] Regions>"
     ]
