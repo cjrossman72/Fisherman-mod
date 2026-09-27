@@ -33,8 +33,8 @@
     "uniques": [
       "Generated near City States with weight [10]",
       "Generated with weight [30] <in [Grassland] Regions>",
-      "Generated with weight [30] <in [Forest] Regions>",
-      "Generated with weight [30] <in [Marsh] tiles>"
+      "Generated with weight [40] <in [Forest] Regions>",
+      "Generated with weight [40] <in [Marsh] tiles>"
     ]
   },
   {
@@ -52,8 +52,7 @@
     },
     "uniques": [
       "Generated near City States with weight [10]",
-      "Generated with weight [30] <in [Tundra] Regions>",
-      "Generated on every [38] tiles"
+      "Generated with weight [80] <in [Tundra] Regions>"
     ]
   }
 ]
