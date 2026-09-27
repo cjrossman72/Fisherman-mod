@@ -69,8 +69,8 @@
     "movement": 2,
     "requiredTech": "Agriculture",
     "uniques": [
-      "Can build [Fishery] improvements on tiles <with [Trout]>",
-      "Can build [Ice Shack] improvements on tiles <with [Northern Pike]>",
+      "Can build [Fishery] improvements on tiles",
+      "Can build [Ice Shack] improvements on tiles",
       "Automation is a primary action"
     ],
     "cost": 70
