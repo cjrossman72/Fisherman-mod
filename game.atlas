@@ -123,16 +123,23 @@ ResourceIcons/Nutrition
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Trout Fishing
+ImprovementIcons/Fishing Trip
   rotate: false
   xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Ice Fishing
+NationIcons/Vikings
   rotate: false
-  xy: 300, 300
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Saxons
+  rotate: false
+  xy: 100, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
