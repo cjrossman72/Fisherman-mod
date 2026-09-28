@@ -26,7 +26,10 @@
     ],
     "gold": 2,
     "food": 2,
-    "improvement": "Fishery",
+    "improvedBy": [
+      "Fishery",
+      "Fishing Trip"
+    ],
     "improvementStats": {
       "gold": 1
     },
@@ -44,7 +47,10 @@
     "gold": 1,
     "production": 1,
     "food": 2,
-    "improvement": "Ice Shack",
+    "improvedBy": [
+      "Ice Shack",
+      "Fishing Trip"
+    ],
     "improvementStats": {
       "gold": 1
     },
