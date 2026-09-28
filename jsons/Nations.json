@@ -66,14 +66,14 @@
     "hateHello": "Fear our might and power!",
     "tradeRequest": "Let's make a deal.",
     "outerColor": [
-      160,
-      115,
-      35
+      0,
+      0,
+      0
     ],
     "innerColor": [
-      243,
-      227,
-      198
+      168,
+      106,
+      30
     ],
     "favoredReligion": "Christianity",
     "uniqueName": "The English ",
