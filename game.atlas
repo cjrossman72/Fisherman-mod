@@ -53,7 +53,7 @@ UnitIcons/Wrangler
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Great Admiral
+UnitIcons/Fleet Admiral
   rotate: false
   xy: 200, 100
   size: 100, 100
