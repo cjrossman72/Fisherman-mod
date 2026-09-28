@@ -67,15 +67,15 @@
     "neutralHello": "Our greatness will not compare with you but welcome.",
     "hateHello": "Fear our might and power!",
     "tradeRequest": "Let's make a deal.",
-    "outerColor": [
-      160,
-      115,
-      35
-    ],
     "innerColor": [
-      243,
-      227,
-      198
+      0,
+      0,
+      0
+    ],
+    "outer Color": [
+      168,
+      106,
+      30
     ],
     "favoredReligion": "Christianity",
     "uniqueName": "The English ",
