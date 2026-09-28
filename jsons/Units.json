@@ -69,11 +69,11 @@
     "movement": 2,
     "requiredTech": "Sailing",
     "uniques": [
-      "Can build [Fishing Trip] improvements on tiles",
+      "Can build [Fishing Trip] improvements on tiles <with [Trout]>",
+      "Can build [Fishing Trip] improvements on tiles <with [Northern Pike]>",
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
-      "Unavailable <for [City-States] Civilizations> <hidden from users>",
-      "Uncapturable"
+      "Unavailable <for [City-States] Civilizations> <hidden from users>"
     ],
     "cost": 70
   }
