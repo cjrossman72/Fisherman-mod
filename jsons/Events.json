@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Catch Fish",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Add +2 Food to all cities",
+        "uniques": [
+          "Comment [+2 [Food]]",
+          "[+2 Food] [in all cities]"
+        ]
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]"
+        ]
+      }
+    ]
+  }
+]

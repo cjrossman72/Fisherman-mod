@@ -76,32 +76,19 @@
     ]
   },
   {
-    "name": "Trout Fishing",
+    "name": "Fishing Trip",
     "turnsToBuild": 3,
     "techRequired": "Sailing",
     "uniques": [
       "Can be built outside your borders <hidden from users>",
-      "Can only be built on [Trout] tiles",
+      "Can only be built to improve a resource <hidden from users>",
       "Does not need removal of [Marsh] <hidden from users>",
-      "Remove [Trout Fishing] improvements from this tile <hidden from users> <upon turn end>",
+      "Triggers a [Catch Fish] event <hidden from users>",
+      "Remove [Fishing Trip] improvements from this tile <hidden from users> <upon turn end>",
       "Remove [Trout] resources from this tile <hidden from users>",
-      "Will not be replaced by automated units <hidden from users>",
-      "Only available <for [Fisherman] units>",
-      "Instantly provides [1] [Nutrition] <hidden from users>"
-    ]
-  },
-  {
-    "name": "Ice Fishing",
-    "turnsToBuild": 3,
-    "techRequired": "Sailing",
-    "uniques": [
-      "Can be built outside your borders <hidden from users>",
-      "Can only be built on [Northern Pike] tiles",
-      "Remove [Ice Fishing] improvements from this tile <hidden from users> <upon turn end>",
       "Remove [Northern Pike] resources from this tile <hidden from users>",
       "Will not be replaced by automated units <hidden from users>",
-      "Only available <for [Fisherman] units>",
-      "Instantly provides [1] [Nutrition] <hidden from users>"
+      "Only available <for [Fisherman] units>"
     ]
   }
 ]

@@ -72,40 +72,5 @@
       "Doesn't generate naturally <in [Hill] tiles>",
       "Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"
     ]
-  },
-  {
-    "name": "Nutrition",
-    "resourceType": "Bonus",
-    "food": 2,
-    "uniques": [
-      "Stockpiled",
-      "Excluded from map editor",
-      "Not shown on world screen",
-      "Doesn't generate naturally"
-    ],
-    "civilopediaText": [
-      {
-        "text": "[Nutrition] is found by fishing a [Trout] or [Northern Pike] tile with a [Fisherman] outside the city limits."
-      },
-      {
-        "separator": true
-      },
-      {
-        "text": "Fisherman",
-        "link": "Unit/Fisherman"
-      },
-      {
-        "text": "Trout",
-        "link": "Resource/Trout"
-      },
-      {
-        "text": "Northern Pike",
-        "link": "Resource/Northern Pike"
-      },
-      {
-        "text": "Nutrition",
-        "link": "Resource/Nutrition"
-      }
-    ]
   }
 ]
