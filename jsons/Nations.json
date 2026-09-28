@@ -34,7 +34,8 @@
       "Enables [Water] units to enter ocean tiles",
       "Starts with [Sailing]",
       "Free [Fisherman] appears",
-      "Gain [500] [Gold]"
+      "Gain [500] [Gold]",
+      "Gain control over [8] tiles [in this city] <upon founding a city>"
     ],
     "cities": [
       "Jórvík",
@@ -81,7 +82,6 @@
     "uniqueName": "The English ",
     "uniques": [
       "Starts with [Animal Husbandry]",
-      "Gain control over [8] tiles [in this city] <upon founding a city>",
       "Free [Horseman] appears <after discovering [Horseback Riding]>",
       "Free [Wrangler] appears"
     ],
