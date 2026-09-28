@@ -21,18 +21,20 @@
     "declaringfriendship": "Let us become like friends!",
     "outerColor": [
       20,
-      149,
-      104
+      173,
+      120
     ],
     "innerColor": [
-      206,
-      224,
-      205
+      198,
+      243,
+      220
     ],
     "uniques": [
       "Enables embarkation for land units",
       "Enables [Water] units to enter ocean tiles",
-      "Starts with [Sailing]"
+      "Starts with [Sailing]",
+      "Free [Fisherman] appears",
+      "Gain [500] [Gold]"
     ],
     "cities": [
       "Jórvík",
@@ -66,14 +68,14 @@
     "hateHello": "Fear our might and power!",
     "tradeRequest": "Let's make a deal.",
     "outerColor": [
-      0,
-      0,
-      0
+      160,
+      115,
+      35
     ],
     "innerColor": [
-      168,
-      106,
-      30
+      243,
+      227,
+      198
     ],
     "favoredReligion": "Christianity",
     "uniqueName": "The English ",
@@ -81,8 +83,7 @@
       "Starts with [Animal Husbandry]",
       "Gain control over [8] tiles [in this city] <upon founding a city>",
       "Free [Horseman] appears <after discovering [Horseback Riding]>",
-      "Free [Wrangler] appears",
-      "Gain [500] [Gold]"
+      "Free [Wrangler] appears"
     ],
     "cities": [
       "Northumbria",
