@@ -85,25 +85,26 @@
     ],
     "civilopediaText": [
       {
-        "text": "[Artifact]s are found from an [Archaeological Dig] with an [Archaeologist] on an [Antiquity Site]. They can then be slotted into a [Great Work of Art] Slot."
+        "text": "[Nutrition] is found by fishing a [Trout] or [Northern Pike] tile with a [Fisherman] outside the city limits."
       },
       {
         "separator": true
       },
       {
-        "text": "Great Works",
-        "link": "Tutorial/Great Works"
+        "text": "Fisherman",
+        "link": "Unit/Fisherman"
       },
       {
-        "text": "See also"
+        "text": "Trout",
+        "link": "Resource/Trout"
       },
       {
-        "text": "Archaeologist",
-        "link": "Unit/Archaeologist"
+        "text": "Northern Pike",
+        "link": "Resource/Northern Pike"
       },
       {
-        "text": "Antiquity Site",
-        "link": "Resource/Antiquity Site"
+        "text": "Nutrition",
+        "link": "Resource/Nutrition"
       }
     ]
   }
