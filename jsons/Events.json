@@ -5,10 +5,10 @@
     "presentation": "Alert",
     "choices": [
       {
-        "text": "Add +2 Food to all cities",
+        "text": "Add +2 Food to all cities with a fishery building",
         "uniques": [
-          "Comment [+2 [Food]]",
-          "[+2 Food] [in all cities]"
+          "Comment [+2 [Food] for every [Fishery] building]",
+          "[+2 Food] from all [Fishery] buildings"
         ]
       },
       {

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Burial_Grounds",
+    "name": "Burial Grounds",
     "faith": 1,
     "cost": 40,
     "maintenance": 1,
@@ -53,6 +53,16 @@
     "requiredTech": "Construction"
   },
   {
+    "name": "Fishery",
+    "maintenance": 1,
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+1 Food] from [Trout] tiles [in this city]",
+      "[+1 Food] from [Northern Pike] tiles [in this city]"
+    ],
+    "requiredTech": "Sailing"
+  },
+  {
     "name": "Seminary",
     "requiredBuilding": "Monestary",
     "uniques": [
@@ -65,17 +75,29 @@
     "requiredTech": "Theology"
   },
   {
-    "name": "Mineral Refinery",
-    "requiredBuilding": "Forge",
-    "requiredNearbyImprovedResources": ["Iron"],
+    "name": "Emissary Progression Protocol",
     "uniques": [
-      "[+2 Production] from [Iron] tiles [in this city]",
-      "Provides [3] [Iron]",
-    ],
-    "production": 2,
-    "gold": 2,
-    "hurryCostModifier": 50,
-    "maintenance": 1,
-    "requiredTech": "Metallurgy"
+      "Unbuildable",
+      "Cost increases with number of cities [Invisible]",
+      "Free Social Policy <if [Emissary Tier 1 Done] is not constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
+      "Provides a [Emissary Tier 1 Done] in [Capital] <if [Emissary Tier 1 Done] is not constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
+      "Free Technology <if [Emissary Tier 1 Done] is constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
+      "Provides a [Emissary Tier 2 Done] in [Capital] <if [Emissary Tier 1 Done] is constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
+      "Provides [Horses] <if [Emissary Tier 1 Done] is constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is constructed in all [Capital] cities> <with [Animal Husbandry]>"
+    ]
+  },
+  {
+    "name": "Emissary Tier 1 Done",
+    "uniques": [
+      "Unbuildable",
+      "Cost increases with number of cities [Invisible]"
+    ]
+  },
+  {
+    "name": "Emissary Tier 2 Done",
+    "uniques": [
+      "Unbuildable",
+      "Cost increases with number of cities [Invisible]"
+    ]
   }
 ]

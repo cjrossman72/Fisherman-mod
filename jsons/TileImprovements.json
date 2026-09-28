@@ -51,7 +51,7 @@
     ]
   },
   {
-    "name": "Fishery",
+    "name": "Dock",
     "terrainsCanBeBuiltOn": [
       "Marsh"
     ],

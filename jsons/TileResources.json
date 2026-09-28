@@ -27,7 +27,7 @@
     "gold": 2,
     "food": 2,
     "improvedBy": [
-      "Fishery",
+      "Dock",
       "Fishing Trip"
     ],
     "improvementStats": {
