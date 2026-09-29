@@ -75,29 +75,31 @@
     "requiredTech": "Theology"
   },
   {
-    "name": "Emissary Progression Protocol",
+    "name": "Fishery Tier 1",
     "uniques": [
-      "Unbuildable",
-      "Cost increases with number of cities [Invisible]",
-      "Free Social Policy <if [Emissary Tier 1 Done] is not constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
-      "Provides a [Emissary Tier 1 Done] in [Capital] <if [Emissary Tier 1 Done] is not constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
-      "Free Technology <if [Emissary Tier 1 Done] is constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
-      "Provides a [Emissary Tier 2 Done] in [Capital] <if [Emissary Tier 1 Done] is constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is not constructed in all [Capital] cities>",
-      "Provides [Horses] <if [Emissary Tier 1 Done] is constructed in all [Capital] cities> <if [Emissary Tier 2 Done] is constructed in all [Capital] cities> <with [Animal Husbandry]>"
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
     ]
   },
   {
-    "name": "Emissary Tier 1 Done",
+    "name": "Fishery Tier 2",
     "uniques": [
-      "Unbuildable",
-      "Cost increases with number of cities [Invisible]"
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
     ]
   },
   {
-    "name": "Emissary Tier 2 Done",
+    "name": "Fishery Tier 3",
     "uniques": [
-      "Unbuildable",
-      "Cost increases with number of cities [Invisible]"
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Fishery Tier 4",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
     ]
   }
 ]
