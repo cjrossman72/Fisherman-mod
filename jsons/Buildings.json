@@ -58,7 +58,9 @@
     "hurryCostModifier": 25,
     "uniques": [
       "[+1 Food] from [Trout] tiles [in this city]",
-      "[+1 Food] from [Northern Pike] tiles [in this city]"
+      "[+1 Food] from [Northern Pike] tiles [in this city]",
+      "Gain a free [Fishery Tier 0] [in this city]",
+      "Free [Fisherman] appears"
     ],
     "requiredTech": "Sailing"
   },
@@ -75,15 +77,23 @@
     "requiredTech": "Theology"
   },
   {
+    "name": "Fishery Tier 0",
+    "uniques": [
+      "Unbuildable"
+    ]
+  },
+  {
     "name": "Fishery Tier 1",
     "food": 2,
+    "replaces": "Fishery Tier 0",
     "uniques": [
       "Unbuildable"
     ]
   },
   {
     "name": "Fishery Tier 2",
-    "food": 2,
+    "food": 4,
+    "replaces": "Fishery Tier 1",
     "uniques": [
       "Unbuildable <hidden from users>",
       "Will not be displayed in Civilopedia"
@@ -91,7 +101,8 @@
   },
   {
     "name": "Fishery Tier 3",
-    "food": 2,
+    "food": 6,
+    "replaces": "Fishery Tier 2",
     "uniques": [
       "Unbuildable <hidden from users>",
       "Will not be displayed in Civilopedia"
@@ -99,7 +110,8 @@
   },
   {
     "name": "Fishery Tier 4",
-    "food": 2,
+    "food": 8,
+    "replaces": "Fishery Tier 3",
     "uniques": [
       "Unbuildable <hidden from users>",
       "Will not be displayed in Civilopedia"

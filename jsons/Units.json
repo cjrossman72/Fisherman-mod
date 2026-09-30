@@ -69,6 +69,7 @@
     "movement": 2,
     "requiredTech": "Sailing",
     "uniques": [
+      "Unbuildable",
       "Can build [Fishing Trip] improvements on tiles",
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
