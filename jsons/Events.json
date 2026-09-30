@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Catch Fish 1",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Add +2 Food to all cities with a Fishery building",
+        "uniques": [
+          "Gain a free [Fishery Tier 1] [in all cities] <in cities with a [Fishery]>"
+        ]
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Catch Fish 2",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Add +2 Food to all cities with a Fishery building",
+        "uniques": [
+          "Gain a free [Fishery Tier 2] [in all cities] <in cities with a [Fishery]>"
+        ]
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Catch Fish 3",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Add +2 Food to all cities with a Fishery building",
+        "uniques": [
+          "Gain a free [Fishery Tier 3] [in all cities] <in cities with a [Fishery]>"
+        ]
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Catch Fish 4",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "key": "Gain a free [Fishery Tier 4] [in all cities] <in cities with a [Fishery]>"
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]"
+        ]
+      }
+    ]
+  }
+]
