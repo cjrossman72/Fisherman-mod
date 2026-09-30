@@ -7,7 +7,7 @@
       {
         "text": "Add +2 Food to all cities with a Fishery building",
         "uniques": [
-          "Gain a free [Fishery Tier 1] [in all cities] <in cities with a [Fishery]>"
+          "Gain a free [Fishery Tier 1] [in all cities] <in cities with a [Fishery]> <hidden from users>"
         ]
       },
       {
@@ -26,7 +26,7 @@
       {
         "text": "Add +2 Food to all cities with a Fishery building",
         "uniques": [
-          "Gain a free [Fishery Tier 2] [in all cities] <in cities with a [Fishery]>"
+          "Gain a free [Fishery Tier 2] [in all cities] <in cities with a [Fishery]> <hidden from users>"
         ]
       },
       {
@@ -45,7 +45,7 @@
       {
         "text": "Add +2 Food to all cities with a Fishery building",
         "uniques": [
-          "Gain a free [Fishery Tier 3] [in all cities] <in cities with a [Fishery]>"
+          "Gain a free [Fishery Tier 3] [in all cities] <in cities with a [Fishery]> <hidden from users>"
         ]
       },
       {
@@ -62,7 +62,10 @@
     "presentation": "Alert",
     "choices": [
       {
-        "key": "Gain a free [Fishery Tier 4] [in all cities] <in cities with a [Fishery]>"
+        "text": "Add +2 Food to all cities with a Fishery building",
+        "uniques": [
+          "Gain a free [Fishery Tier 4] [in all cities] <in cities with a [Fishery]> <hidden from users>"
+        ]
       },
       {
         "text": "Sell the fish for gold.",

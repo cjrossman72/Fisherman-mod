@@ -87,10 +87,10 @@
       "Remove [Trout] resources from this tile <hidden from users>",
       "Remove [Northern Pike] resources from this tile <hidden from users>",
       "Only available <for [Fisherman] units>",
-      "Triggers a [Catch Fish 1] event <if [Fishery] is constructed in all [Capital] cities> <hidden from users>",
-      "Triggers a [Catch Fish 2] event <if [Fish Tier 1] is constructed in all [Capital] cities> <hidden from users>",
-      "Triggers a [Catch Fish 3] event <if [Fish Tier 2] is constructed in all [Capital] cities> <hidden from users>",
-      "Triggers a [Catch Fish 4] event <if [Fish Tier 3] is constructed in all [Capital] cities> <hidden from users>"
+      "Triggers a [Catch Fish 1] event <if [Fishery Tier 1] is not constructed> <in [Capital] cities> <hidden from users>",
+      "Triggers a [Catch Fish 2] event <if [Fishery Tier 2] is not constructed> <in [Capital] cities> <hidden from users>",
+      "Triggers a [Catch Fish 3] event <if [Fishery Tier 3] is not constructed> <in [Capital] cities> <hidden from users>",
+      "Triggers a [Catch Fish 4] event <if [Fishery Tier 4] is not constructed> <in [Capital] cities> <hidden from users>"
     ]
   }
 ]
