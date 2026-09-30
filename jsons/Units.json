@@ -70,7 +70,7 @@
     "requiredTech": "Sailing",
     "uniques": [
       "Unbuildable",
-      "Can build [Fishing Trip] improvements on tiles <by consuming this unit>",
+      "Can instantly construct a [Fishing Trip] improvement <by consuming this unit>",
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
       "Unavailable <for [City-States] Civilizations> <hidden from users>"

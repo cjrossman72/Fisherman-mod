@@ -5,10 +5,9 @@
     "presentation": "Alert",
     "choices": [
       {
-        "text": "Gain a free [Fish Farm] in all of your cities",
+        "text": "Can build [Fish Farm] in all of your cities",
         "uniques": [
-          "Gain a free [Fish Farm] [in all cities",
-          "Gain a free [Fishing Tier 1] [in capital] <hidden from users>"
+          "Gain a free [Fishing Tier 1] [in all cities] <hidden from users>"
         ]
       }
     ]

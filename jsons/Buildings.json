@@ -80,6 +80,7 @@
   },
   {
     "name": "Fish Farm",
+    "cost": 50,
     "food": 1,
     "Production": 1,
     "requiredBuilding": "Fishing Tier 1"
@@ -124,7 +125,7 @@
   {
     "name": "Fishing Tier 1",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia"
     ],
     "uniques": [
@@ -134,7 +135,7 @@
   {
     "name": "Fishing Tier 2",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia",
       "\"[+1 Gold, +1 Food] from all [Fish Farm] buildings\"",
       "Free [Fisherman] appears <upon discovering [Currency] technology>"
@@ -143,7 +144,7 @@
   {
     "name": "Fishing Tier 3",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia",
       "Free [Fisherman] appears <upon discovering [Guilds] technology>"
     ]
@@ -151,28 +152,28 @@
   {
     "name": "Fishing Tier 4",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia"
     ]
   },
   {
     "name": "Fishing Market Tier",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia"
     ]
   },
   {
     "name": "Fishery Tier",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia"
     ]
   },
   {
     "name": "Coast Tier",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia",
       "[+1 Food] from [Coast] tiles [in this city]\"",
       "[+1 Science] from [Coast] tiles [in this city]\""
@@ -181,7 +182,7 @@
   {
     "name": "Wharf Tier",
     "uniques": [
-      "Unbuildable <hidden from users>",
+      "Unbuildable",
       "Will not be displayed in Civilopedia"
     ]
   }
