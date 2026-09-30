@@ -126,9 +126,7 @@
     "name": "Fishing Tier 1",
     "uniques": [
       "Unbuildable",
-      "Will not be displayed in Civilopedia"
-    ],
-    "uniques": [
+      "Will not be displayed in Civilopedia",
       "Free [Fisherman] appears <if [Fish Farm] is constructed in all [in capital] cities>"
     ]
   },
