@@ -1,5 +1,19 @@
 [
   {
+    "name": "Palace",
+    "isNationalWonder": true,
+    "production": 3,
+    "science": 3,
+    "gold": 3,
+    "culture": 1,
+    "cityStrength": 2.5,
+    "cost": 0,
+    "uniques": [
+      "Indicates the capital city",
+      "Free [Fisherman] appears"
+    ]
+  },
+  {
     "name": "Burial Grounds",
     "faith": 1,
     "cost": 40,
@@ -68,15 +82,14 @@
     "name": "Fish Farm",
     "food": 1,
     "Production": 1,
-    "uniques": [
-      "Unbuildable"
-    ]
+    "requiredBuilding": "Fishing Tier 1"
   },
   {
     "name": "Fish Market",
     "cost": "100",
     "food": 2,
     "requiredTech": "Currency",
+    "requiredBuilding": "Fishing Market Tier",
     "uniques": [
       "[+1 Gold] from [Trout] tiles [in this city]",
       "[+1 Gold] from [Northern Pike] tiles [in this city]"
@@ -113,6 +126,9 @@
     "uniques": [
       "Unbuildable <hidden from users>",
       "Will not be displayed in Civilopedia"
+    ],
+    "uniques": [
+      "Free [Fisherman] appears <if [Fish Farm] is constructed in all [in capital] cities>"
     ]
   },
   {
@@ -120,14 +136,16 @@
     "uniques": [
       "Unbuildable <hidden from users>",
       "Will not be displayed in Civilopedia",
-      "\"[+1 Gold, +1 Food] from all [Fish Farm] buildings\""
+      "\"[+1 Gold, +1 Food] from all [Fish Farm] buildings\"",
+      "Free [Fisherman] appears <upon discovering [Currency] technology>"
     ]
   },
   {
     "name": "Fishing Tier 3",
     "uniques": [
       "Unbuildable <hidden from users>",
-      "Will not be displayed in Civilopedia"
+      "Will not be displayed in Civilopedia",
+      "Free [Fisherman] appears <upon discovering [Guilds] technology>"
     ]
   },
   {
