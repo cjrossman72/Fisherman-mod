@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Burial Grounds",
+    "faith": 1,
+    "cost": 40,
+    "maintenance": 1,
+    "requiredTech": "Mining",
+    "uniques": [
+      "Only available <when religion is enabled>"
+    ],
+    "culture": 1
+  },
+  {
+    "name": "Tannery",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": [
+      "Furs",
+      "Deer"
+    ],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+1 Gold] from [Furs] tiles [in this city]",
+      "[+1 Gold] from [Deer] tiles [in this city]"
+    ],
+    "requiredTech": "Trapping"
+  },
+  {
+    "name": "Monestary",
+    "maintenance": 1,
+    "production": 1,
+    "faith": 2,
+    "happiness": 2,
+    "hurryCostModifier": 25,
+    "uniques": [
+      "May choose [1] additional belief(s) of any type when [founding] a religion",
+      "[+10]% Natural religion spread [in this city]",
+      "Only available <when religion is enabled>"
+    ],
+    "requiredTech": "Writing"
+  },
+  {
+    "name": "Smokehouse",
+    "maintenance": 0,
+    "requiredNearbyImprovedResources": [
+      "Bison",
+      "Cattle"
+    ],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+2 Food] from [Bison] tiles [in this city]",
+      "[+1 Food] from [Cattle] tiles [in this city]"
+    ],
+    "requiredTech": "Construction"
+  },
+  {
+    "name": "Seminary",
+    "requiredBuilding": "Monestary",
+    "uniques": [
+      "[+20]% Faith cost of generating Great Prophet equivalents",
+      "Only available <when religion is enabled>"
+    ],
+    "faith": 2,
+    "hurryCostModifier": 50,
+    "maintenance": 1,
+    "requiredTech": "Theology"
+  },
+  {
+    "name": "Fish Farm",
+    "food": 1,
+    "Production": 1,
+    "uniques": [
+      "Unbuildable"
+    ]
+  },
+  {
+    "name": "Fish Market",
+    "cost": "100",
+    "food": 2,
+    "requiredTech": "Currency",
+    "uniques": [
+      "[+1 Gold] from [Trout] tiles [in this city]",
+      "[+1 Gold] from [Northern Pike] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Fishery",
+    "cost": 140,
+    "production": 2,
+    "requiredBuilding": "Fishery Tier",
+    "uniques": [
+      "[+1 Food] from [Fishing Boats] tiles [in this city]\""
+    ]
+  },
+  {
+    "name": "Fisherman's Wharf",
+    "isWonder": true,
+    "cost": 250,
+    "production": 2,
+    "requiredTech": "Compass",
+    "requiredBuilding": "Wharf Tier",
+    "uniques": [
+      "[+ 2 Gold] from [Fishing Boats] tiles [in this city]",
+      "[+1 Food] from [Coast] tiles [in this city]",
+      "[+1 Food] from [Northern Pike] tiles [in this city]",
+      "Must be next to [Coast]",
+      "Cannot be purchased",
+      "Only available <in cities with a [Fishery]>",
+      "Only available <if [Harbor] is constructed in at least [1] of [in all cities] cities>"
+    ]
+  },
+  {
+    "name": "Fishing Tier 1",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Fishing Tier 2",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia",
+      "\"[+1 Gold, +1 Food] from all [Fish Farm] buildings\""
+    ]
+  },
+  {
+    "name": "Fishing Tier 3",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Fishing Tier 4",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Fishing Market Tier",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Fishery Tier",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Coast Tier",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia",
+      "[+1 Food] from [Coast] tiles [in this city]\"",
+      "[+1 Science] from [Coast] tiles [in this city]\""
+    ]
+  },
+  {
+    "name": "Wharf Tier",
+    "uniques": [
+      "Unbuildable <hidden from users>",
+      "Will not be displayed in Civilopedia"
+    ]
+  }
+]

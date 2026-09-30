@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Catch Fish 1",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Gain a free [Fish Farm] in all of your cities",
+        "uniques": [
+          "Gain a free [Fish Farm] [in all cities",
+          "Gain a free [Fishing Tier 1] [in capital] <hidden from users>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Catch Fish 2",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Can build [Fish Market] buildings upon discovering [Currency]",
+        "uniques": [
+          "Gain a free [Fishing Tier 2] [in all cities <hidden from users>",
+          "Gain a free [Fish Market Tier] [in all cities <hidden from users>"
+        ]
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]",
+          "Gain a free [Fishing Tier 2] [in all cities <hidden from users>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Catch Fish 3",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "Can build [Fishery] buildings upon discovering [Optics] and construct a [Fisherman's Wharf] wonder upon discovering [Compass])",
+        "uniques": [
+          "Gain a free [Fishing Tier 3] [in all cities] <hidden from users>",
+          "Gain a free [Wharf Tier] [in all cities] <hidden from users>",
+          "Gain a free [Fishery Tier] [in all cities] <hidden from users>"
+        ]
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]"
+        ],
+        "uniques": [
+          "Gain a free [Fishing Tier 3] [in all cities <hidden from users>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Catch Fish 4",
+    "text": "Your [Fisherman] hauls in a huge catch of fish!",
+    "presentation": "Alert",
+    "choices": [
+      {
+        "text": "+1 [Food] and +1 [Science] to all [Coast] tiles in all cities",
+        "uniques": [
+          "Gain a free [Coast Tier] [in all cities] <hidden from users>"
+        ]
+      },
+      {
+        "text": "Sell the fish for 250 Gold and enter a Golden Age",
+        "uniques": [
+          "Gain [250] [Gold]",
+          "Empire enters golden age"
+        ]
+      }
+    ]
+  }
+]
