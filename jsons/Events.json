@@ -9,6 +9,13 @@
         "uniques": [
           "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>"
         ]
+      },
+      {
+        "text": "Sell the fish for gold.",
+        "uniques": [
+          "Gain [50]-[150] [Gold]",
+          "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>"
+        ]
       }
     ]
   },
@@ -28,7 +35,7 @@
         "text": "Sell the fish for gold.",
         "uniques": [
           "Gain [50]-[150] [Gold]",
-          "Gain a free [Fishing Tier 2] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 2] [in all cities] <hidden from users>"
         ]
       }
     ]
@@ -49,7 +56,7 @@
       {
         "text": "Sell the fish for gold.",
         "uniques": [
-          "Gain a free [Fishing Tier 3] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 3] [in all cities] <hidden from users>"
         ]
       }
     ]
@@ -60,6 +67,7 @@
     "presentation": "Alert",
     "choices": [
       {
+        "text": "Can build a [Fisherman's Wharf] Wonder in a city with a [Harbor]",
         "uniques": [
           "Gain a free [Coastline] [in all cities] <hidden from users>"
         ]
