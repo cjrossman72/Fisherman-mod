@@ -73,7 +73,8 @@
       "Can instantly construct a [Fishing Trip] improvement <by consuming this unit>",
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
-      "Unavailable <for [City-States] Civilizations> <hidden from users>"
+      "Unavailable <for [City-States] Civilizations> <hidden from users>",
+      "Remove [Fishing Trip] improvements from this tile <upon turn end> <hidden from users>"
     ],
     "cost": 70,
     "civilopediaText": [

@@ -85,7 +85,7 @@
     "Production": 1,
     "requiredTech": "Sailing",
     "uniques": [
-      "Only available <if [Fishing Tier 1] is constructed in all [in capital] cities> <hidden from users>"
+      "Only available <if [Fishing Trip 1] is constructed in all [Capital] cities> <hidden from users>"
     ],
     "civilopediaText": [
       {
@@ -120,7 +120,7 @@
     "uniques": [
       "[+1 Gold] from [Trout] tiles [in this city]",
       "[+1 Gold] from [Northern Pike] tiles [in this city]",
-      "Only available <if [Fish Market Tier] is constructed in all [in capital] cities> <hidden from users>"
+      "Only available <if [Market Canopy] is constructed in all [Capital] cities> <hidden from users>"
     ]
   },
   {
@@ -130,7 +130,7 @@
     "requiredTech": "Optics",
     "uniques": [
       "[+1 Food] from [Fishing Boats] tiles [in this city]",
-      "Only available <if [Fishery Tier] is constructed in all [in capital] cities> <hidden from users>"
+      "Only available <if [Fishery Pier] is constructed in all [Capital] cities> <hidden from users>"
     ]
   },
   {
@@ -147,19 +147,19 @@
       "Cannot be purchased",
       "Only available <in cities with a [Fishery]>",
       "Only available <if [Harbor] is constructed in at least [1] of [in all cities] cities>",
-      "Only available <if [Wharf Tier] is constructed in all [in capital] cities> <hidden from users>"
+      "Only available <if [Wharf] is constructed in all [Capital] cities> <hidden from users>"
     ]
   },
   {
-    "name": "Fishing Tier 1",
+    "name": "Fishing Trip 1",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia",
-      "Free [Fisherman] appears <if [Fish Farm] is constructed in all [in capital] cities> <hidden from users>"
+      "Free [Fisherman] appears <upon discovering [Optics] technology>"
     ]
   },
   {
-    "name": "Fishing Tier 2",
+    "name": "Fishing Trip 2",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "name": "Fishing Tier 3",
+    "name": "Fishing Trip 3",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia",
@@ -176,37 +176,37 @@
     ]
   },
   {
-    "name": "Fishing Tier 4",
+    "name": "Fishing Trip 4",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia"
     ]
   },
   {
-    "name": "Fish Market Tier",
+    "name": "Market Canopy",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia"
     ]
   },
   {
-    "name": "Fishery Tier",
+    "name": "Fishery Pier",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia"
     ]
   },
   {
-    "name": "Coast Tier",
+    "name": "Coastline",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia",
-      "[+1 Food] from [Coast] tiles [in this city]\"",
-      "[+1 Science] from [Coast] tiles [in this city]\""
+      "[+1 Food] from [Water] tiles [in this city]\"",
+      "[+1 Science] from [Water] tiles [in this city]\""
     ]
   },
   {
-    "name": "Wharf Tier",
+    "name": "Wharf",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia"

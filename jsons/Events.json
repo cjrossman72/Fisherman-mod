@@ -7,7 +7,7 @@
       {
         "text": "Can build [Fish Farm] in all of your cities",
         "uniques": [
-          "Gain a free [Fishing Tier 1] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>"
         ]
       }
     ]
@@ -20,8 +20,8 @@
       {
         "text": "Can build [Fish Market] buildings upon discovering [Currency]",
         "uniques": [
-          "Gain a free [Fishing Tier 2] [in all cities] <hidden from users>",
-          "Gain a free [Fish Market Tier] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 2] [in all cities] <hidden from users>",
+          "Gain a free [Market Canopy] [in all cities] <hidden from users>"
         ]
       },
       {
@@ -41,16 +41,13 @@
       {
         "text": "Can build [Fishery] buildings upon discovering [Optics] and construct a [Fisherman's Wharf] wonder upon discovering [Compass])",
         "uniques": [
-          "Gain a free [Fishing Tier 3] [in all cities] <hidden from users>",
-          "Gain a free [Wharf Tier] [in all cities] <hidden from users>",
-          "Gain a free [Fishery Tier] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 3] [in all cities] <hidden from users>",
+          "Gain a free [Wharf] [in all cities] <hidden from users>",
+          "Gain a free [Fishery Pier] [in all cities] <hidden from users>"
         ]
       },
       {
         "text": "Sell the fish for gold.",
-        "uniques": [
-          "Gain [50]-[150] [Gold]"
-        ],
         "uniques": [
           "Gain a free [Fishing Tier 3] [in all cities] <hidden from users>"
         ]
@@ -63,9 +60,8 @@
     "presentation": "Alert",
     "choices": [
       {
-        "text": "+1 [Food] and +1 [Science] to all [Coast] tiles in all cities",
         "uniques": [
-          "Gain a free [Coast Tier] [in all cities] <hidden from users>"
+          "Gain a free [Coastline] [in all cities] <hidden from users>"
         ]
       },
       {
