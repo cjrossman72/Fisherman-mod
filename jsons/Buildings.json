@@ -84,7 +84,7 @@
     "food": 1,
     "Production": 1,
     "uniques": [
-      "Only available <if [Fishing Tier 1] is constructed in at least [1] of [in all cities] cities>"
+      "Only available <if [Fishing Tier 1] is constructed in all [in capital] cities"
     ]
   },
   {
@@ -95,7 +95,7 @@
     "uniques": [
       "[+1 Gold] from [Trout] tiles [in this city]",
       "[+1 Gold] from [Northern Pike] tiles [in this city]",
-      "Only available <if [Fish Market Tier] is constructed in at least [1] of [in all cities] cities>"
+      "Only available <if [Fish Market Tier] is constructed in all [in capital] cities"
     ]
   },
   {
@@ -104,7 +104,7 @@
     "production": 2,
     "uniques": [
       "[+1 Food] from [Fishing Boats] tiles [in this city]\"",
-      "Only available <if [Fishery Tier] is constructed in at least [1] of [in all cities] cities>"
+      "Only available <if [Fishery Tier] is constructed in all [in capital] cities"
     ]
   },
   {
@@ -120,8 +120,7 @@
       "Must be next to [Coast]",
       "Cannot be purchased",
       "Only available <in cities with a [Fishery]>",
-      "Only available <if [Harbor] is constructed in at least [1] of [in all cities] cities>",
-      "Only available <if [Wharf Tier] is constructed in at least [1] of [in all cities] cities>"
+      "Only available <if [Harbor] is constructed in at least [1] of [in all cities] cities>"
     ]
   },
   {
@@ -157,7 +156,7 @@
     ]
   },
   {
-    "name": "Fishing Market Tier",
+    "name": "Fish Market Tier",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia"
