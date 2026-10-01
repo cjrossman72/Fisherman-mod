@@ -83,26 +83,28 @@
     "cost": 50,
     "food": 1,
     "Production": 1,
-    "requiredBuilding": "Fishing Tier 1"
+    "uniques": [
+      "Only available <if [Fishing Tier 1] is constructed in at least [1] of [in all cities] cities>"
+    ]
   },
   {
     "name": "Fish Market",
     "cost": "100",
     "food": 2,
     "requiredTech": "Currency",
-    "requiredBuilding": "Fishing Market Tier",
     "uniques": [
       "[+1 Gold] from [Trout] tiles [in this city]",
-      "[+1 Gold] from [Northern Pike] tiles [in this city]"
+      "[+1 Gold] from [Northern Pike] tiles [in this city]",
+      "Only available <if [Fish Market Tier] is constructed in at least [1] of [in all cities] cities>"
     ]
   },
   {
     "name": "Fishery",
     "cost": 140,
     "production": 2,
-    "requiredBuilding": "Fishery Tier",
     "uniques": [
-      "[+1 Food] from [Fishing Boats] tiles [in this city]\""
+      "[+1 Food] from [Fishing Boats] tiles [in this city]\"",
+      "Only available <if [Fishery Tier] is constructed in at least [1] of [in all cities] cities>"
     ]
   },
   {
@@ -111,7 +113,6 @@
     "cost": 250,
     "production": 2,
     "requiredTech": "Compass",
-    "requiredBuilding": "Wharf Tier",
     "uniques": [
       "[+2 Gold] from [Fishing Boats] tiles [in this city]",
       "[+1 Food] from [Coast] tiles [in this city]",
@@ -119,7 +120,8 @@
       "Must be next to [Coast]",
       "Cannot be purchased",
       "Only available <in cities with a [Fishery]>",
-      "Only available <if [Harbor] is constructed in at least [1] of [in all cities] cities>"
+      "Only available <if [Harbor] is constructed in at least [1] of [in all cities] cities>",
+      "Only available <if [Wharf Tier] is constructed in at least [1] of [in all cities] cities>"
     ]
   },
   {
