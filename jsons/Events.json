@@ -7,7 +7,8 @@
       {
         "text": "Can build [Fish Farm] in all of your cities",
         "uniques": [
-          "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>",
+          "Remove [Fishing Trip] improvements from this tile"
         ]
       },
       {
