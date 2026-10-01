@@ -87,10 +87,10 @@
       "Remove [Northern Pike] resources from this tile <hidden from users>",
       "Only available <for [Fisherman] units>",
       "Remove [Fishing Trip] improvements from this tile <upon turn end> <hidden from users>",
-      "Triggers a [Catch Fish 1] event <hidden from users>",
-      "Triggers a [Catch Fish 2] event <if [Fishing Trip 2] is not constructed> <in [Capital] cities> <hidden from users>",
-      "Triggers a [Catch Fish 3] event <if [Fishing Trip 3] is not constructed> <in [Capital] cities> <hidden from users>",
-      "Triggers a [Catch Fish 4] event <if [Fishing Trip 4] is not constructed> <in [Capital] cities> <hidden from users>"
+      "Triggers a [Catch Fish 1] event <if [Fishing Trip 1] is not constructed by anybody> <hidden from users>",
+      "Triggers a [Catch Fish 2] event <if [Fishing Trip 2] is not constructed by anybody> <hidden from users>",
+      "Triggers a [Catch Fish 3] event <if [Fishing Trip 3] is not constructed by anybody> <hidden from users>",
+      "Triggers a [Catch Fish 4] event <if [Fishing Trip 4] is not constructed by anybody> <hidden from users>"
     ]
   }
 ]
