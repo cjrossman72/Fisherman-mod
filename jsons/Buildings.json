@@ -83,8 +83,33 @@
     "cost": 50,
     "food": 1,
     "Production": 1,
+    "requiredTech": "Sailing",
     "uniques": [
       "Only available <if [Fishing Tier 1] is constructed in all [in capital] cities> <hidden from users>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A [Fish Farm] can be constructed after a [Fisherman] builds a [Fishing Trip] improvement on a [Trout] or [Northern Pike] tile outside the city limits."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Fisherman",
+        "link": "Unit/Fisherman"
+      },
+      {
+        "text": "Fishing Trip",
+        "link": "Improvement/Fishing Trip"
+      },
+      {
+        "text": "Trout",
+        "link": "Resource/Trout"
+      },
+      {
+        "text": "Northern Pike",
+        "link": "Resource/Northern Pike"
+      }
     ]
   },
   {
@@ -102,8 +127,9 @@
     "name": "Fishery",
     "cost": 140,
     "production": 2,
+    "requiredTech": "Optics",
     "uniques": [
-      "[+1 Food] from [Fishing Boats] tiles [in this city]\"",
+      "[+1 Food] from [Fishing Boats] tiles [in this city]",
       "Only available <if [Fishery Tier] is constructed in all [in capital] cities> <hidden from users>"
     ]
   },
