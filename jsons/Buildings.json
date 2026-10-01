@@ -163,7 +163,7 @@
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia",
-      "\"[+1 Gold, +1 Food] from all [Fish Farm] buildings\"",
+      "[+1 Gold, +1 Food] from all [Fish Farm] buildings <hidden from users>",
       "Free [Fisherman] appears <upon discovering [Currency] technology>"
     ]
   },

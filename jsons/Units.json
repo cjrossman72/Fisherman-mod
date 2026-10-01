@@ -102,14 +102,10 @@
         "separator": true
       },
       {
-        "text": "The fourth [Fishing Trip] improvement allows the choice of constructing a [Fisherman'n Wharf] wonder or selling the fish for [Gold] and entering a Golden Age."
+        "text": "The fourth [Fishing Trip] improvement allows the choice of constructing a [Fisherman's Wharf] wonder or selling the fish for [Gold] and entering a Golden Age."
       },
       {
         "separator": true
-      },
-      {
-        "text": "Fisherman",
-        "link": "Unit/Fisherman"
       },
       {
         "text": "Fishing Trip",
