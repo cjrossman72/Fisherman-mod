@@ -35,7 +35,6 @@
         "text": "Can build [Fish Market] buildings upon discovering [Currency]",
         "uniques": [
           "Unavailable <if [Fishing Trip 2] is constructed in all [Capital] cities> <hidden from users>",
-          "Gain a free [Market Canopy] [in all cities] <hidden from users>",
           "Only available <for units with [Fisher]> <hidden from users>",
           "Gain a free [Fishing Trip 2] [in all cities] <hidden from users>"
         ]
