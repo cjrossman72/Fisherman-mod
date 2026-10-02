@@ -13,57 +13,6 @@
     ]
   },
   {
-    "name": "Wrangler",
-    "unitType": "Civilian",
-    "requiredTech": "Animal Husbandry",
-    "strength": 8,
-    "movement": 2,
-    "cost": 100,
-    "uniques": [
-      "Uncapturable",
-      "Ignores terrain cost",
-      "Can instantly construct a [Corral] improvement <by consuming this unit>"
-    ],
-    "attackSound": "nonmetalhit"
-  },
-  {
-    "name": "Voyager",
-    "unitType": "Melee Water",
-    "movement": 4,
-    "strength": 10,
-    "cost": 60,
-    "requiredTech": "Optics",
-    "uniques": [
-      "Cannot enter ocean tiles",
-      "Never appears as a Barbarian unit",
-      "Can carry [1] [Civilian] units"
-    ],
-    "upgradesTo": "Caravel",
-    "obsoleteTech": "Astronomy",
-    "attackSound": "nonmetalhit"
-  },
-  {
-    "name": "Pioneer",
-    "unitType": "Civilian",
-    "movement": 2,
-    "strength": 5,
-    "cost": 25,
-    "replaces": "Settler",
-    "uniqueTo": "Akkadia",
-    "requiredTech": "Agriculture",
-    "obsoleteTech": "Scientific Theory",
-    "uniques": [
-      "May upgrade to [Archer] through ruins-like effects",
-      "Never appears as a Barbarian unit",
-      "Can transform to [Settler]",
-      "Never appears as a Barbarian unit"
-    ],
-    "promotions": [
-      "Ignore terrain cost"
-    ],
-    "attackSound": "nonmetalhit"
-  },
-  {
     "name": "Fisherman",
     "unitType": "Civilian",
     "cost": 70,
