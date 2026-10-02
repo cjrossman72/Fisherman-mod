@@ -7,6 +7,8 @@
       {
         "text": "Go fishing",
         "uniques": [
+          "Remove [Trout] resources from this tile <hidden from users>",
+          "Remove [Northern Pike] resources from this tile <hidden from users>",
           "Triggers a [Catch Fish] event <hidden from users>"
         ]
       },
@@ -26,7 +28,6 @@
         "uniques": [
           "Unavailable <if [Fishing Trip 1] is constructed in all [Capital] cities> <hidden from users>",
           "Unavailable <for units with [Fisher]> <hidden from users>",
-          "All newly-trained [Fisherman] units [in all cities] receive the [Fisher] promotion <hidden from users>",
           "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>"
         ]
       },
@@ -43,9 +44,7 @@
         "text": "Can build [Fishery] buildings upon discovering [Optics]",
         "uniques": [
           "Unavailable <if [Fishing Trip 3] is constructed in all [Capital] cities> <hidden from users>",
-          "Gain a free [Fishery Pier] [in all cities] <hidden from users>",
           "Only available <for units with [Angler]> <hidden from users>",
-          "All newly-trained [Fisherman] units [in all cities] receive the [Troller] promotion <hidden from users>",
           "Gain a free [Fishing Trip 3] [in all cities] <hidden from users>"
         ]
       },
@@ -53,9 +52,7 @@
         "text": "Can build a [Fisherman's Wharf] Wonder in a city with a [Harbor]",
         "uniques": [
           "Unavailable <if [Fishing Trip 4] is constructed in all [Capital] cities> <hidden from users>",
-          "Gain a free [Wharf] [in all cities] <hidden from users>",
           "Only available <for units with [Troller]> <hidden from users>",
-          "All newly-trained [Fisherman] units [in all cities] receive the [Whaler] promotion <hidden from users>",
           "Gain a free [Fishing Trip 4] [in all cities] <hidden from users>"
         ]
       },

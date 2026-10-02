@@ -51,7 +51,7 @@
     "uniques": [
       "[+1 Gold] from [Trout] tiles [in this city]",
       "[+1 Gold] from [Northern Pike] tiles [in this city]",
-      "Only available <if [Market Canopy] is constructed in all [Capital] cities> <hidden from users>"
+      "Only available <if [Fishing Trip 2] is constructed in all [Capital] cities> <hidden from users>"
     ]
   },
   {
@@ -61,7 +61,7 @@
     "requiredTech": "Guilds",
     "uniques": [
       "[+1 Food] from [Fishing Boats] tiles [in this city]",
-      "Only available <if [Fishery Pier] is constructed in all [Capital] cities> <hidden from users>"
+      "Only available <if [Fishing Trip 3] is constructed in all [Capital] cities> <hidden from users>"
     ]
   },
   {
@@ -75,7 +75,7 @@
       "Must be next to [Coast]",
       "Cannot be purchased",
       "[2] Movement <for [Water] units>",
-      "Only available <if [Wharf] is constructed in all [Capital] cities> <hidden from users>",
+      "Only available <if [Fishing Trip 4] is constructed in all [Capital] cities> <hidden from users>",
       "Only available <if [Harbor] is constructed> <in this city>"
     ]
   },
@@ -83,7 +83,8 @@
     "name": "Fishing Trip 1",
     "uniques": [
       "Unbuildable",
-      "Will not be displayed in Civilopedia"
+      "Will not be displayed in Civilopedia",
+      "All newly-trained [Fisherman] units [in all cities] receive the [Fisher] promotion <hidden from users>"
     ]
   },
   {
@@ -91,7 +92,8 @@
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia",
-      "[+1 Gold, +1 Food] from all [Fish Farm] buildings <hidden from users>"
+      "[+1 Gold, +1 Food] from all [Fish Farm] buildings <hidden from users>",
+      "All newly-trained [Fisherman] units [in all cities] receive the [Angler] promotion <hidden from users>"
     ]
   },
   {
@@ -99,41 +101,12 @@
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia",
-      "[+1 Gold, +1 Culture] from all [Fishery] buildings <hidden from users>"
+      "[+1 Gold, +1 Culture] from all [Fishery] buildings <hidden from users>",
+      "All newly-trained [Fisherman] units [in all cities] receive the [Troller] promotion <hidden from users>"
     ]
   },
   {
     "name": "Fishing Trip 4",
-    "uniques": [
-      "Unbuildable",
-      "Will not be displayed in Civilopedia"
-    ]
-  },
-  {
-    "name": "Market Booth",
-    "uniques": [
-      "Unbuildable",
-      "Will not be displayed in Civilopedia"
-    ]
-  },
-  {
-    "name": "Fishery Pier",
-    "uniques": [
-      "Unbuildable",
-      "Will not be displayed in Civilopedia"
-    ]
-  },
-  {
-    "name": "Coastline",
-    "uniques": [
-      "Unbuildable",
-      "Will not be displayed in Civilopedia",
-      "[+1 Food] from [Water] tiles [in this city]\"",
-      "[+1 Science] from [Water] tiles [in this city]\""
-    ]
-  },
-  {
-    "name": "Wharf",
     "uniques": [
       "Unbuildable",
       "Will not be displayed in Civilopedia"
