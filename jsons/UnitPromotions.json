@@ -1,8 +1,6 @@
 [
   {
     "name": "Fisher",
-    "column": 1,
-    "row": 1,
     "uniques": [
       "Comment [Cities can build Fish Farms]",
       "Only available <for [Fisherman] units>"
@@ -11,8 +9,6 @@
   {
     "name": "Angler",
     "prerequisite": "Fisher",
-    "column": 1,
-    "row": 2,
     "uniques": [
       "Comment [Cities can build Fish Markets]",
       "Only available <for [Fisherman] units>"
@@ -21,8 +17,6 @@
   {
     "name": "Troller",
     "prerequisite": "Angler",
-    "column": 1,
-    "row": 3,
     "uniques": [
       "Comment [Cities can build Fisheries]",
       "Only available <for [Fisherman] units>"
@@ -31,8 +25,6 @@
   {
     "name": "Whaler",
     "prerequisite": "Troller",
-    "column": 1,
-    "row": 4,
     "uniques": [
       "Comment [One city with a Harbor can build the Fisherman's Wharf Wonder]",
       "Only available <for [Fisherman] units>"
