@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Fisher",
+    "column": 1,
+    "row": 1,
+    "uniques": [
+      "Comment [Cities can build Fish Farms]"
+    ]
+  },
+  {
+    "name": "Angler",
+    "column": 1,
+    "row": 2,
+    "uniques": [
+      "Comment [Cities can build Fish Markets]"
+    ]
+  },
+  {
+    "name": "Troller",
+    "column": 1,
+    "row": 3,
+    "uniques": [
+      "Comment [Cities can build Fisheries]"
+    ]
+  },
+  {
+    "name": "Whaler",
+    "column": 1,
+    "row": 4,
+    "uniques": [
+      "Comment [One city with a Harbor can build the Fisherman's Wharf Wonder]"
+    ]
+  }
+]

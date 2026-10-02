@@ -66,51 +66,53 @@
   {
     "name": "Fisherman",
     "unitType": "Civilian",
+    "cost": 70,
     "movement": 2,
     "requiredTech": "Sailing",
     "uniques": [
-      "Unbuildable",
-      "Can instantly construct a [Fishing Trip] improvement <by consuming this unit>",
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
       "Unavailable <for [City-States] Civilizations> <hidden from users>",
-      "Remove [Fishing Trip] improvements from this tile <upon turn end> <hidden from users>"
+      "Triggers a [Go Fishing] event <upon ending a turn in a [Trout] tile>",
+      "Triggers a [Go Fishing] event <upon ending a turn in a [Northern Pike] tile>",
+      "Cost increases by [5] when built"
     ],
-    "cost": 70,
     "civilopediaText": [
       {
-        "text": "A [Fisherman] can build a [Fishing Trip] improvement on a [Trout] or [Northern Pike] tile outside the city limits which will consume the [Fisherman]"
+        "text": "A [Fisherman] can go fishing on a [Trout] or [Northern Pike] tile outside the city limits which will consume the [Fisherman]"
       },
       {
         "separator": true
       },
       {
-        "text": "The first [Fishing Trip] improvement allows the construction of [Fish Farm]s"
+        "text": "Allows cities to construct [Fish Farm]s"
       },
       {
         "separator": true
       },
       {
-        "text": "The second [Fishing Trip] improvement allows the choice of constructing [Fish Market]s or selling the fish for [Gold]."
+        "text": "A [Fisherman] with the [Fisher] promotion allows cities to construct [Fish Market]s once [Currency] is discovered."
       },
       {
         "separator": true
       },
       {
-        "text": "The third [Fishing Trip] improvement allows the choice of constructing [Fishery]s or selling the fish for [Gold]."
+        "text": "A [Fisherman] with the [Angler] promotion allows cities to construct [Fishery]s once [Guilds] is discovered"
       },
       {
         "separator": true
       },
       {
-        "text": "The fourth [Fishing Trip] improvement allows the choice of constructing a [Fisherman's Wharf] wonder or selling the fish for [Gold] and entering a Golden Age."
+        "text": "A [Fisherman] with the [Troller] promotion allows a city to construct [Fisherman's Wharf] wonder in a city with a [Harbor] once [Compass] is discovered."
       },
       {
         "separator": true
       },
       {
-        "text": "Fishing Trip",
-        "link": "Improvement/Fishing Trip"
+        "text": "One can always choose to sell the fish for [Gold]."
+      },
+      {
+        "separator": true
       },
       {
         "text": "Trout",
