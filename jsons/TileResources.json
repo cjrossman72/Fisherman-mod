@@ -8,8 +8,7 @@
     "gold": 2,
     "food": 2,
     "improvedBy": [
-      "Dock",
-      "Fishing Trip"
+      "Dock"
     ],
     "improvementStats": {
       "gold": 1
@@ -29,8 +28,7 @@
     "production": 1,
     "food": 2,
     "improvedBy": [
-      "Ice Shack",
-      "Fishing Trip"
+      "Ice Shack"
     ],
     "improvementStats": {
       "gold": 1
