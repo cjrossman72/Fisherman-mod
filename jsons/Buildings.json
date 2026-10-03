@@ -1,17 +1,5 @@
 [
   {
-    "name": "Smokehouse",
-    "maintenance": 0,
-    "hurryCostModifier": 25,
-    "uniques": [
-      "[+1 Food] from [Trout] tiles [in this city]",
-      "[+1 Food] from [Northern Pike] tiles [in this city]",
-      "[+1 Food] from [Deer] tiles [in this city]",
-      "[+1 Food] from [Bison] tiles [in this city]"
-    ],
-    "requiredTech": "Construction"
-  },
-  {
     "name": "Fish Farm",
     "cost": 50,
     "production": 1,
