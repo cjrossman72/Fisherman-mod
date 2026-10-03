@@ -36,15 +36,17 @@
         "uniques": [
           "Unavailable <if [Fishing Trip 2] is constructed in all [Capital] cities> <hidden from users>",
           "Only available <for units with [Fisher]> <hidden from users>",
+          "Only available <after discovering [Currency]>",
           "Gain a free [Fishing Trip 2] [in all cities] <hidden from users>"
         ]
       },
       {
-        "text": "Can build [Fishery] buildings upon discovering [Optics]",
+        "text": "Can build [Fishery] buildings upon discovering [Guilds]",
         "uniques": [
           "Unavailable <if [Fishing Trip 3] is constructed in all [Capital] cities> <hidden from users>",
           "Only available <for units with [Angler]> <hidden from users>",
-          "Gain a free [Fishing Trip 3] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 3] [in all cities] <hidden from users>",
+          "Only available <after discovering [Guilds]>"
         ]
       },
       {
@@ -52,7 +54,8 @@
         "uniques": [
           "Unavailable <if [Fishing Trip 4] is constructed in all [Capital] cities> <hidden from users>",
           "Only available <for units with [Troller]> <hidden from users>",
-          "Gain a free [Fishing Trip 4] [in all cities] <hidden from users>"
+          "Gain a free [Fishing Trip 4] [in all cities] <hidden from users>",
+          "Only available <after discovering [Compass]>"
         ]
       },
       {

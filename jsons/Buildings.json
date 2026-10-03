@@ -14,11 +14,11 @@
   {
     "name": "Fish Farm",
     "cost": 50,
-    "food": 1,
-    "Production": 1,
+    "production": 1,
     "requiredTech": "Sailing",
     "uniques": [
-      "Only available <if [Fishing Trip 1] is constructed in all [Capital] cities> <hidden from users>"
+      "Only available <if [Fishing Trip 1] is constructed in all [Capital] cities> <hidden from users>",
+      "[+1 Food] from [Coast] tiles [in this city]"
     ],
     "civilopediaText": [
       {
