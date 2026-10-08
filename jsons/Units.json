@@ -9,8 +9,8 @@
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
       "Unavailable <for [City-States] Civilizations> <hidden from users>",
-      "Triggers a [Go Fishing] event <upon ending a turn in a [Trout] tile>",
-      "Triggers a [Go Fishing] event <upon ending a turn in a [Northern Pike] tile>",
+      "Triggers a [Go Fishing] event <upon ending a turn in a [Trout] tile> <by consuming this unit>",
+      "Triggers a [Go Fishing] event <upon ending a turn in a [Northern Pike] tile> <by consuming this unit>",
       "Cost increases by [5] when built"
     ],
     "civilopediaText": [
@@ -73,6 +73,36 @@
       {
         "text": "Fisherman's Wharf",
         "link": "Wonder/Fisherman's Wharf"
+      }
+    ]
+  },
+  {
+    "name": "Ecologist",
+    "unitType": "Civilian",
+    "cost": 125,
+    "movement": 2,
+    "requiredTech": "Economics",
+    "uniques": [
+      "Automation is a primary action",
+      "Never appears as a Barbarian unit <hidden from users>",
+      "Unavailable <for [City-States] Civilizations> <hidden from users>",
+      "Add [Trout] to this tile <in [Marsh] tiles> <by consuming this unit>",
+      "Only available <if [Fishery] is constructed> <in this city>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Once a [Fishery] is built, an [Ecologist] can stock a Marsh with [Trout] within the city limits which will consume the [Ecologist]"
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Trout",
+        "link": "Resource/Trout"
+      },
+      {
+        "text": "Fishery",
+        "link": "Building/Fishery"
       }
     ]
   }

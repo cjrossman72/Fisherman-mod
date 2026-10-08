@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Frozen Lake",
+    "type": "TerrainFeature",
+    "food": 2,
+    "production": 1,
+    "movementCost": 1,
+    "unbuildable": true,
+    "occursOn": [
+      "Snow"
+    ],
+    "uniques": [
+      "Occurs at temperature between [-1] and [-0.8] and humidity between [0] and [1]",
+      "Considered [Undesirable] when determining start locations",
+      "Always Fertility [2] for Map Generation",
+      "Fresh water",
+      "Rare feature",
+      "Considered [Undesirable] when determining start locations"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Frozen Lakes are found on snow tiles. Some may contain Northern Pike which can be improved by building an Ice Shack."
+      },
+      {
+        "text": "Snow",
+        "link": "Terrain/Snow"
+      },
+      {
+        "text": "Ice Shack",
+        "link": "Improvement/Ice Shack"
+      },
+      {
+        "text": "Northern Pike",
+        "link": "Resource/Northern Pike"
+      }
+    ]
+  }
+]
