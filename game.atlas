@@ -1,6 +1,6 @@
 
 game.png
-size: 512, 512
+size: 512, 640
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -151,3 +151,11 @@ NationIcons/Saxons
   orig: 100, 100
   offset: 0, 0
   index: -1
+Tilesets/Frozen Lake
+  rotate: false
+  xy: 200, 500
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+
