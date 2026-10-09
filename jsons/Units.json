@@ -9,8 +9,8 @@
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
       "Unavailable <for [City-States] Civilizations> <hidden from users>",
-      "Triggers a [Go Fishing] event <upon ending a turn in a [Trout] tile> <by consuming this unit>",
-      "Triggers a [Go Fishing] event <upon ending a turn in a [Northern Pike] tile> <by consuming this unit>",
+      "Triggers a [Go Fishing] event <upon ending a turn in a [Trout] tile> <after which this unit is consumed>",
+      "Triggers a [Go Fishing] event <upon ending a turn in a [Northern Pike] tile> <after which this unit is consumed>",
       "Cost increases by [5] when built"
     ],
     "civilopediaText": [
