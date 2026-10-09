@@ -26,16 +26,14 @@
       {
         "text": "Can build [Fish Farm]s in your cities",
         "uniques": [
-          "Unavailable <if [Fishing Trip 1] is constructed in all [Capital] cities> <hidden from users>",
-          "Unavailable <for units with [Fisher]> <hidden from users>",
+          "Only available <for units without [Fisher]> <hidden from users>",
           "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>"
         ]
       },
       {
         "text": "Can build [Fish Market] buildings upon discovering [Currency]",
         "uniques": [
-          "Unavailable <if [Fishing Trip 2] is constructed in all [Capital] cities> <hidden from users>",
-          "Only available <for units with [Fisher]> <hidden from users>",
+          "Only available <for units without [Angler]> <hidden from users>",
           "Only available <after discovering [Currency]>",
           "Gain a free [Fishing Trip 2] [in all cities] <hidden from users>"
         ]
@@ -43,8 +41,7 @@
       {
         "text": "Can build [Fishery] buildings upon discovering [Guilds]",
         "uniques": [
-          "Unavailable <if [Fishing Trip 3] is constructed in all [Capital] cities> <hidden from users>",
-          "Only available <for units with [Angler]> <hidden from users>",
+          "Only available <for units without [Troller]> <hidden from users>",
           "Gain a free [Fishing Trip 3] [in all cities] <hidden from users>",
           "Only available <after discovering [Guilds]>"
         ]
@@ -52,8 +49,7 @@
       {
         "text": "Can build a [Fisherman's Wharf] Wonder in a city with a [Harbor]",
         "uniques": [
-          "Unavailable <if [Fishing Trip 4] is constructed in all [Capital] cities> <hidden from users>",
-          "Only available <for units with [Troller]> <hidden from users>",
+          "Only available <for units without [Whaler]> <hidden from users>",
           "Gain a free [Fishing Trip 4] [in all cities] <hidden from users>",
           "Only available <after discovering [Compass]>"
         ]
