@@ -19,52 +19,38 @@
     ]
   },
   {
-    "name": "Open Fish Farm",
+    "name": "Catch Fish",
     "text": "Your [Fisherman] hauls in a huge catch of fish!",
     "presentation": "Alert",
     "choices": [
       {
         "text": "Can build [Fish Farm]s in your cities",
         "uniques": [
-          "Gain a free [Fishing Trip 1] [in capital] <hidden from users>"
+          "Unavailable <if [Fishing Trip 1] is constructed by anybody> <hidden from users>",
+          "Gain a free [Fishing Trip 1] [in all cities] <hidden from users>"
         ]
       },
-      {
-        "text": "Sell the fish for gold.",
-        "uniques": [
-          "Gain [50]-[150] [Gold]"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Open Fish Market",
-    "text": "Your [Fisherman] hauls in a huge catch of fish!",
-    "presentation": "Alert",
-    "choices": [
       {
         "text": "Can build [Fish Market] buildings upon discovering [Currency]",
         "uniques": [
-          "Gain a free [Fishing Trip 2] [in capital] <hidden from users>"
+          "Unavailable <if [Fishing Trip 2] is constructed by anybody> <hidden from users>",
+          "Only available <after discovering [Currency]>",
+          "Gain a free [Fishing Trip 2] [in all cities] <hidden from users>"
         ]
       },
-      {
-        "text": "Sell the fish for gold.",
-        "uniques": [
-          "Gain [50]-[150] [Gold]"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Open Fishery",
-    "text": "Your [Fisherman] hauls in a huge catch of fish!",
-    "presentation": "Alert",
-    "choices": [
       {
         "text": "Can build [Fishery] buildings upon discovering [Guilds]",
         "uniques": [
-          "Gain a free [Fishing Trip 3] [in capital] <hidden from users>"
+          "Unavailable <if [Fishing Trip 3] is constructed by anybody> <hidden from users>",
+          "Gain a free [Fishing Trip 3] [in all cities] <hidden from users>"
+        ]
+      },
+      {
+        "text": "Can build a [Fisherman's Wharf] Wonder in a city with a [Harbor]",
+        "uniques": [
+          "Unavailable <if [Fishing Trip 4] is constructed by anybody> <hidden from users>",
+          "Only available <after discovering [Compass]>",
+          "Gain a free [Fishing Trip 4] [in all cities] <hidden from users>"
         ]
       },
       {
@@ -72,24 +58,13 @@
         "uniques": [
           "Gain [50]-[150] [Gold]"
         ]
-      }
-    ]
-  },
-  {
-    "name": "Open Wharf",
-    "text": "Your [Fisherman] hauls in a huge catch of fish!",
-    "presentation": "Alert",
-    "choices": [
-      {
-        "text": "Can build [Fisherman's wonder in a city with a [Harbor] upon discovering [Compass]",
-        "uniques": [
-          "Gain a free [Fishing Trip 4] [in capital] <hidden from users>"
-        ]
       },
       {
-        "text": "Sell the fish for gold.",
+        "text": "Sell the fish for 250 gold and enter a Golden Age",
         "uniques": [
-          "Gain [50]-[150] [Gold]"
+          "Only available <if [Fishing Trip 4] is constructed by anybody> <hidden from users>",
+          "Gain [250] [Gold]",
+          "Empire enters golden age"
         ]
       }
     ]

@@ -9,14 +9,8 @@
       "Automation is a primary action",
       "Never appears as a Barbarian unit <hidden from users>",
       "Unavailable <for [City-States] Civilizations> <hidden from users>",
-      "Triggers a [Open Fish Farm] event <in [Trout] tiles> <if [Fishing Trip 1] is not constructed by anybody> <by consuming this unit> <hidden from users>",
-      "Triggers a [Open Fish Farm] event <in [Northern Pike] tiles> <if [Fishing Trip 1] is not constructed by anybody> <by consuming this unit> <hidden from users>",
-      "Triggers a [Open Fish Market] event <in [Trout] tiles> <if [Fishing Trip 2] is not constructed by anybody> <after discovering [Currency]> <by consuming this unit> <hidden from users>",
-      "Triggers a [Open Fish Market] event <in [Northern Pike] tiles> <if [Fishing Trip 2] is not constructed by anybody> <after discovering [Currency]> <by consuming this unit> <hidden from users>",
-      "Triggers a [Open Fishery] event <in [Trout] tiles> <if [Fishing Trip 3] is not constructed by anybody> <after discovering [Guilds]> <by consuming this unit> <hidden from users>",
-      "Triggers a [Open Fishery] event <in [Northern Pike] tiles> <if [Fishing Trip 3] is not constructed by anybody> <after discovering [Guilds]> <by consuming this unit> <hidden from users>",
-      "Triggers a [Open Wharf] event <in [Trout] tiles> <if [Fishing Trip 4] is not constructed by anybody> <after discovering [Compass]> <by consuming this unit> <hidden from users>",
-      "Triggers a [Open Wharf] event <in [Northern Pike] tiles> <if [Fishing Trip 4] is not constructed by anybody> <after discovering [Compass]> <by consuming this unit> <hidden from users>",
+      "Triggers a [Go Fishing] event <in [Trout] tiles> <by consuming this unit> <hidden from users>",
+      "Triggers a [Go Fishing] event <in [Northern Pike] tiles> <by consuming this unit> <hidden from users>",
       "Cost increases by [5] when built"
     ],
     "civilopediaText": [
