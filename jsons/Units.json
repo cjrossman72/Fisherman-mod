@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Fisherman",
+    "unitType": "Civilian",
+    "cost": 70,
+    "movement": 2,
+    "requiredTech": "Sailing",
+    "uniques": [
+      "Automation is a primary action",
+      "Never appears as a Barbarian unit <hidden from users>",
+      "Unavailable <for [City-States] Civilizations> <hidden from users>",
+      "Triggers a [Go Fishing] event <in [Trout] tiles> <hidden from users>",
+      "Triggers a [Go Fishing] event <in [Northern Pike] tiles> <hidden from users>",
+      "Cost increases by [5] when built"
+    ],
+    "civilopediaText": [
+      {
+        "text": "A [Fisherman] can go fishing on a [Trout] or [Northern Pike] tile outside the city limits which will consume the [Fisherman]"
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Allows cities to construct [Fish Farm]s"
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "A [Fisherman] with the [Fisher] promotion allows cities to construct [Fish Market]s once [Currency] is discovered."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "A [Fisherman] with the [Angler] promotion allows cities to construct [Fishery]s once [Guilds] is discovered"
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "A [Fisherman] with the [Troller] promotion allows a city to construct [Fisherman's Wharf] wonder in a city with a [Harbor] once [Compass] is discovered."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "One can always choose to sell the fish for [Gold]."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Trout",
+        "link": "Resource/Trout"
+      },
+      {
+        "text": "Northern Pike",
+        "link": "Resource/Northern Pike"
+      },
+      {
+        "text": "Fish Farm",
+        "link": "Building/Fish Farm"
+      },
+      {
+        "text": "Fish Market",
+        "link": "Building/Fish Market"
+      },
+      {
+        "text": "Fishery",
+        "link": "Building/Fishery"
+      },
+      {
+        "text": "Fisherman's Wharf",
+        "link": "Wonder/Fisherman's Wharf"
+      }
+    ]
+  },
+  {
+    "name": "Ecologist",
+    "unitType": "Civilian",
+    "cost": 125,
+    "movement": 2,
+    "requiredTech": "Economics",
+    "uniques": [
+      "Automation is a primary action",
+      "Never appears as a Barbarian unit <hidden from users>",
+      "Unavailable <for [City-States] Civilizations> <hidden from users>",
+      "Add [Trout] to this tile <in [Marsh] tiles> <by consuming this unit>",
+      "Only available <if [Fishery] is constructed> <in this city>"
+    ],
+    "civilopediaText": [
+      {
+        "text": "Once a [Fishery] is built, an [Ecologist] can stock a Marsh with [Trout] within the city limits which will consume the [Ecologist]"
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Trout",
+        "link": "Resource/Trout"
+      },
+      {
+        "text": "Fishery",
+        "link": "Building/Fishery"
+      }
+    ]
+  }
+]
